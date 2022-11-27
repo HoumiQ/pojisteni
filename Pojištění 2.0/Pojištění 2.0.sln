@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pojištění 2.0", "Pojištění 2.0\Pojištění 2.0.csproj", "{D982F09E-6D92-4A6F-8C43-EE10EDBF47B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D982F09E-6D92-4A6F-8C43-EE10EDBF47B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D982F09E-6D92-4A6F-8C43-EE10EDBF47B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D982F09E-6D92-4A6F-8C43-EE10EDBF47B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D982F09E-6D92-4A6F-8C43-EE10EDBF47B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1925DEF-5490-41B3-B3FE-23BF7720BA24}
+	EndGlobalSection
+EndGlobal
